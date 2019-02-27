@@ -18,7 +18,7 @@ html {
   right: 0;
 }
 
-@media (min-width:642px) and (max-width:1000px){
+@media (min-width:642px) and (max-width:1090px){
   #dolphin{
   top:90px;
   right: 500px;
