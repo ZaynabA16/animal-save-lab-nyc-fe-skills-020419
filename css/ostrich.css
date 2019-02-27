@@ -10,7 +10,7 @@ html {
 
 @media(max-width:500px){
   #ostrich{
-    bottom: 300px;
+    top: 300px;
   }
   
 }
